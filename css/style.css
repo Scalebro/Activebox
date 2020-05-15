@@ -337,11 +337,6 @@ button {
     overflow: hidden;
 }
 
-.reviews__slider {
-    height: 500px;
-    overflow: hidden;
-}
-
 .reviews__item {
     display: flex;
     flex-wrap: wrap;
